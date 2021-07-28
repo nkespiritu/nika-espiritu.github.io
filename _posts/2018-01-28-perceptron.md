@@ -3,7 +3,7 @@ title: "Comparing travel behavior during 2019 and 2020 in the New York City Taxi
 date: 2021-07-28
 tags: [data wrangling, data science, exploratory data analysis, big data]
 header:
-  image: "/images/nyctlc_eda/banner.jpg"
+  image: "images/nyctlc_eda/banner.png"
 excerpt: "An exploratory data analysis on pandemic and pre-pandemic NYC TLC data."
 mathjax: "true"
 ---
@@ -29,4 +29,4 @@ As of writing this, data available was only from January 1, 2019 to June 30, 202
 3. We also found that cashless transactions were banned by legislators, and people are experiencing the impacts of this legislation. 
 4. With the reopening of New York, we are now seeing a small increase in volume of transactions, and this should help NYC taxi drivers.
 
-For the full report, click [here](https://github.com/nkespiritu/nika-espiritu.github.io/blob/master/_pages/nyctlc_eda/Technical%20Report%20MP2.ipynb).
+For the full report, click [here](https://github.com/nkespiritu/nika-espiritu.github.io/blob/master/_pages/nyctlc_eda/Technical%20Report%20MP2.ipynb){:target="_blank" rel="noopener"}.
