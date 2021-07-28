@@ -4,10 +4,12 @@ date: 2021-07-28
 permalink: /projects/nyctlceda
 tags: [data wrangling, data science, exploratory data analysis, big data]
 header:
-  image: "images/nyctlc_eda/banner.png"
-excerpt: "An exploratory data analysis on pandemic and pre-pandemic NYC TLC data."
+  image: "images/nyctlceda_banner.png"
+excerpt: "An exploratory data analysis on pandemic and pre-pandemic NYC TLC data using Dask."
 mathjax: "true"
 ---
+
+[![](https://img.shields.io/badge/Jupyter-View_Notebook-F37626?logo=jupyter)](https://github.com/nkespiritu/nika-espiritu.github.io/blob/master/_pages/nyctlc_eda/nyctlceda_20201130.ipynb)       [![](https://img.shields.io/badge/Github-View_HTML-181717?logo=github)](https://github.com/nkespiritu/nika-espiritu.github.io/blob/master/_pages/nyctlc_eda/nyctlceda_20201130.html)
 
 ## Purpose
 
@@ -29,5 +31,3 @@ As of writing this, data available was only from January 1, 2019 to June 30, 202
 2. People usually travelled alone in pre-pandemic times, but this phenomenon increased during the pandemic. 
 3. We also found that cashless transactions were banned by legislators, and people are experiencing the impacts of this legislation. 
 4. With the reopening of New York, we are now seeing a small increase in volume of transactions, and this should help NYC taxi drivers.
-
-For the full report, [here](https://github.com/nkespiritu/nika-espiritu.github.io/blob/master/_pages/nyctlc_eda/nyctlceda_20201130.ipynb).
