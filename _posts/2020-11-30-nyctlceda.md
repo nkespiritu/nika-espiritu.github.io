@@ -1,7 +1,7 @@
 ---
 title: "Comparing travel behavior during 2019 and 2020 in the New York City Taxi and Limousine Commission trip records"
 date: 2021-07-28
-permalink: /projects/nyctlceda
+permalink: /nyctlceda
 tags: [data wrangling, data science, exploratory data analysis, big data]
 header:
   image: "images/nyctlceda_banner.png"
