@@ -7,14 +7,13 @@ header:
   image: "images/nyctlceda_banner.png"
 excerpt: "An exploratory data analysis on pandemic and pre-pandemic NYC TLC data using Dask."
 mathjax: "true"
-author: Nika Espiritu, Karen Orbase
 ---
 
 [![](https://img.shields.io/badge/Jupyter-View_Notebook-F37626?logo=jupyter)](https://github.com/nkespiritu/nika-espiritu.github.io/blob/master/_pages/nyctlc_eda/nyctlceda_20201130.ipynb)       [![](https://img.shields.io/badge/Github-View_HTML-181717?logo=github)](https://github.com/nkespiritu/nika-espiritu.github.io/blob/master/_pages/nyctlc_eda/nyctlceda_20201130.html)
 
 ## Purpose
 
-This mini project was written alongside my Term 3 learning team partner, [Jasper Pangan](https://www.linkedin.com/in/jasperkristianpangan/). This was submitted for our Big Data and Cloud Computing class held from September 2020 to January 2021. In this class, we were tasked to do an exploratory data analysis on gigabytes worth of data. We were required to use Dask, a Python library specifically for wrangling big data.
+This mini project was written alongside my Term 3 learning team partner, [Jasper Pangan](https://www.linkedin.com/in/jasperkristianpangan/). This was submitted for our Big Data and Cloud Computing class held from September 2020 to January 2021. In this class, we were tasked to do an exploratory data analysis on 15 GB worth of data. We were required to use Dask, a Python library specifically for wrangling big data.
 
 ## About the data
 
