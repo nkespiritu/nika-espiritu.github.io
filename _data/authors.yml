@@ -1,0 +1,28 @@
+# /_data/authors.yml
+
+Nika Espiritu:
+  name        : "Nika Espiritu"
+  bio         : "The turned have tables."
+  avatar      : "/images/bio-pic-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:billyrick@rick.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/extravagantman"
+
+Karen Orbase:
+  name        : "Karen Orbase"
+  bio         : "Nani"
+  avatar      : "/images/bio-pic-2.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:cornelius@thewhip.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/rhymeswithsackit" 
